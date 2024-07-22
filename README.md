@@ -19,7 +19,7 @@ When ready, run dev to view the project locally:
 ## Deployment
 
 Run `npm run gh-pages` and check the latest build & deployment, here:
-[Arborist Askfrun Guthub build & deployment](https://github.com/kostdarmo/arboristaskfrun.github.io/commits/main)
+[Arborist Askfrun Guthub build & deployment](https://github.com/kostdarmo/arboristaskfrun.github.io/commits/gh-pages)
 
 When the checks are green, check the page:
 [Arborist Askfrun online](https://arboristaskfrun.se/)
