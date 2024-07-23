@@ -28,9 +28,9 @@
 		<ul class="flex justify-between gap-4 items-center">
 			<li>
 				<a
-					href="/en"
+					href="/"
 					class="flex gap-1.5 items-center px-2 py-1.5 bg-gray-200 rounded-md hover:bg-[var(--color-bg)]"
-					><Earth size={18} /> <span class="pt-1">English</span></a>
+					><Earth size={18} /> <span class="pt-1">Swedish</span></a>
 			</li>
 		</ul>
 	</div>
@@ -56,24 +56,23 @@
 						Arborist Askfrun
 					</h1>
 					<p class="md:text-2xl italic font-medium !leading-relaxed">
-						Din vänliga arborist i Stockholm, jag är här för att hjälpa dig med
-						alla dina träds behov. Med ett djupt engagemang för hållbarhet och
-						många års praktisk erfarenhet, ser jag till att dina träd förblir
-						friska och vackra. Oavsett om det handlar om beskärning, plantering,
-						sjukdomsförebyggande eller akutsituationer, kan du lita på att jag,
-						Arborist Askfrun, behandlar dina träd med största omsorg och
-						expertis.
+						Your friendly neighborhood arborist in Stockholm, I’m here to help
+						you with all your tree care needs. With a deep commitment to
+						sustainability and years of hands-on experience, I ensure your trees
+						stay healthy and beautiful. Whether it’s pruning, planting, disease
+						prevention, or emergency care, you can count on me, Arborist
+						Askfrun, to treat your trees with the utmost care and expertise.
 					</p>
 					<p class="md:text-2xl italic font-medium !leading-relaxed my-4">
-						Kontakta mig idag för vänliga och pålitliga trädvårdstjänster i
-						Stockholm.
+						Get in touch with me today for friendly and reliable tree services
+						in Stockholm.
 					</p>
 
 					<ul class="my-4 md:py-6 lg:my-9 flex gap-4">
 						<li>
 							<a
 								href="tel:+460720115377"
-								class="button"><PhoneCall /> Ringa till</a>
+								class="button"><PhoneCall /> Call</a>
 						</li>
 						<li>
 							<a
@@ -93,18 +92,18 @@
 					About
 				</h2>
 				<p class="md:text-2xl italic font-medium !leading-relaxed mt-4 md:mt-6">
-					Hallå! Jag är Emelie, den stolta ägaren till "Arborist Askfrun".
-					Ursprungligen från den charmiga staden Umeå, kallar jag nu den
-					pulserande staden Stockholm mitt hem. Min passion för växter har varit
-					en livslång resa, och jag har ägnat mig åt konsten och vetenskapen om
-					trädodling. Det finns inget jag älskar mer än att vårda träd och
-					hjälpa dem att frodas.
+					Hello! I'm Emelie, the proud owner of "Arborist Askfrun" Originally
+					from the charming town of Umeå, I now call the vibrant city of
+					Stockholm my home. My passion for plants has been a lifelong journey,
+					and I've dedicated myself to the art and science of arboriculture.
+					There's nothing I love more than nurturing trees and helping them
+					thrive.
 				</p>
 				<p class="md:text-2xl italic font-medium !leading-relaxed mt-4 md:mt-6">
-					Om du någonsin behöver en arbonist finns jag här för dig. Med min
-					kunskap och genuina kärlek till allt grönt, är jag övertygad om att
-					jag kan ge den bästa vården för dina träd. Låt oss arbeta tillsammans
-					för att få din grönska att blomstra!
+					If you're ever in need of an arbonist, I'm here for you. With my
+					knowledge and genuine love for all things green, I’m confident that I
+					can provide the best care for your trees. Let's work together to make
+					your greenery flourish!
 				</p>
 			</div>
 
@@ -157,23 +156,23 @@
 					class="font-medium !leading-relaxed flex gap-1.5 md:gap-2 xl:gap-4 flex-wrap md:justify-center text-lg md:text-xl xl:text-2xl">
 					<li
 						class="flex gap-1.5 items-center border-l-4 border-[var(--color-primary)] px-4 py-1.5 bg-[var(--color-bg)]">
-						<Trees /> Vård
+						<Trees /> Care
 					</li>
 					<li
 						class="flex gap-1.5 items-center border-l-4 border-[var(--color-primary)] px-4 py-1.5 bg-[var(--color-bg)]">
-						<Trees /> Förvaltning
+						<Trees /> Management
 					</li>
 					<li
 						class="flex gap-1.5 items-center border-l-4 border-[var(--color-primary)] px-4 py-1.5 bg-[var(--color-bg)]">
-						<Trees /> Plantering
+						<Trees /> Planting
 					</li>
 					<li
 						class="flex gap-1.5 items-center border-l-4 border-[var(--color-primary)] px-4 py-1.5 bg-[var(--color-bg)]">
-						<Trees /> Beskärning
+						<Trees /> Pruning
 					</li>
 					<li
 						class="flex gap-1.5 items-center border-l-4 border-[var(--color-primary)] px-4 py-1.5 bg-[var(--color-bg)]">
-						<Trees /> Sjukdomsprevention
+						<Trees /> Disease prevention
 					</li>
 				</ul>
 			</div>
@@ -182,36 +181,37 @@
 		<div class="py-6 md:py-11 lg:py-20">
 			<div class="px-4 md:text-center md:max-w-3xl mx-auto">
 				<h2 class="text-4xl md:text-5xl tracking-wide !leading-normal mb-4">
-					Prissättning
+					Pricing
 				</h2>
 
 				<ul class="font-medium !leading-relaxed text-lg md:text-xl xl:text-2xl">
 					<li
 						class="flex justify-between gap-1.5 items-center px-4 py-1.5 border-b border-dashed border-yellow-600">
-						<span>Timtaxa</span>
+						<span>Hourly rate</span>
 						<span>1,000 SEK</span>
 					</li>
 					<li
 						class="flex justify-between gap-1.5 items-center px-4 py-1.5 border-b border-dashed border-yellow-600">
-						<span>Heldagspris</span>
+						<span>Whole day</span>
 						<span>7,000 SEK</span>
 					</li>
 					<li
 						class="flex justify-between gap-1.5 items-center px-4 py-1.5 border-b border-dashed border-yellow-600">
-						<span>Halvdagspris</span>
+						<span>Half Day</span>
 						<span>4,000 SEK</span>
 					</li>
 				</ul>
 
 				<div class="p-4 md:p-6 bg-white mt-4 md:mt-6">
-					<h2 class="flex gap-2 md:justify-center text-lg">Viktig notering:</h2>
+					<h2 class="flex gap-2 md:justify-center text-lg">Important note:</h2>
 					<p>
-						Alla priser är exklusive moms & transportkostnad (Pris per KM. 24,3
-						SEK).
+						All prices are exclusive of VAT & transportation cost (Price per KM.
+						24.3 SEK).
 					</p>
 					<p>
-						Priserna som anges är uppskattningar. För att ge dig den mest exakta
-						offerten måste jag först besöka och bedöma trädets skick.
+						The prices listed are estimates. To provide you with the most
+						accurate quote, I will need to visit and assess the condition of the
+						tree first.
 					</p>
 				</div>
 			</div>
@@ -223,7 +223,7 @@
 			<div class="px-4 md:text-center md:max-w-3xl mx-auto">
 				<h2
 					class="text-4xl md:text-5xl tracking-wide !leading-normal mb-4 text-[var(--color-bg)]">
-					Kontakta Emelie
+					Contact Emelie
 				</h2>
 				<ul
 					class="md:text-2xl font-medium !leading-relaxed flex gap-4 md:justify-center">
@@ -232,7 +232,7 @@
 							class="button"
 							target="_blank"
 							href="tel:+460720115377">
-							<PhoneCall /> Ringa till
+							<PhoneCall /> Call
 						</a>
 					</li>
 					<li>
