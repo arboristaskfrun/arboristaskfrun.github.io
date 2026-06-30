@@ -81,7 +81,7 @@
               >
             </li>
             <li>
-              <a href="mailto:+arborist.askfrun@gmail.com" class="button"
+              <a href="mailto:arborist.askfrun@gmail.com" class="button"
                 ><AtSign /> Email</a
               >
             </li>
@@ -275,7 +275,7 @@
             <a
               class="button"
               target="_blank"
-              href="mailto:+arborist.askfrun@gmail.com"
+              href="mailto:arborist.askfrun@gmail.com"
             >
               <AtSign /> Email
             </a>
