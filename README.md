@@ -18,8 +18,17 @@ When ready, run dev to view the project locally:
 
 ## Deployment
 
+Make changes on `main` branch, commit and then `npm run gh-pages`.
+
 Run `npm run gh-pages` and check the latest build & deployment, here:
 [Arborist Askfrun Guthub build & deployment](https://github.com/arboristaskfrun/arboristaskfrun.github.io/commits/gh-pages)
 
 When the checks are green, check the page:
 [Arborist Askfrun online](https://arboristaskfrun.se/)
+
+## Push to git
+
+```
+git remote set-url origin git@github.com:arboristaskfrun/arboristaskfrun.github.io.git
+git push origin main
+```
