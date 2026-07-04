@@ -34,16 +34,10 @@
   <main>
     <div class="bg-[#051208] text-emerald-50 overflow-hidden relative">
       <div class="flex flex-col lg:flex-row gap-4 lg:gap-6">
-        <div class="h-80 lg:h-auto lg:w-1/2 relative">
+        <div class="h-96 lg:h-auto lg:w-1/2 relative">
           <img
             class="h-full object-cover hidden lg:block absolute top-0 left-0 w-full"
             src="images/arboristaskfrun-top.jpeg"
-            alt=""
-          />
-
-          <img
-            class="h-full object-cover w-full lg:hidden"
-            src="images/hero-landscape.jpg"
             alt=""
           />
         </div>
