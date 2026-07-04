@@ -24,7 +24,7 @@
         <a
           href="/en"
           class="flex gap-1.5 items-center px-2 py-1.5 bg-gray-200 rounded-md hover:bg-[var(--color-bg)]"
-          ><Earth size={18} /> <span class="pt-1">English</span></a
+          ><Earth size={18} /> <span class="pt-1">EN</span></a
         >
       </li>
     </ul>
@@ -32,7 +32,7 @@
 </nav>
 <div class="flex flex-col min-h-screen pb-14">
   <main>
-    <div class="bg-[#04240c] text-emerald-50 overflow-hidden relative">
+    <div class="bg-[#051208] text-emerald-50 overflow-hidden relative">
       <div class="flex flex-col lg:flex-row gap-4 lg:gap-6">
         <div class="h-80 lg:h-auto lg:w-1/2 relative">
           <img
@@ -48,7 +48,9 @@
           />
         </div>
         <div class="px-4 lg:w-1/2 my-6">
-          <h1 class="text-5xl md:text-6xl tracking-wide my-4 md:py-6 lg:my-9">
+          <h1
+            class="text-5xl md:text-6xl tracking-wide my-4 md:py-6 lg:my-9 text-[#f7fffa]"
+          >
             Professionell trädvård för en vackrare och säkrare miljö
           </h1>
           <p class="md:text-2xl italic font-medium !leading-relaxed">
@@ -86,7 +88,7 @@
           <li
             class="flex gap-1.5 items-center border-l-4 border-[var(--color-primary)] px-4 py-1.5 bg-[var(--color-bg)]"
           >
-            <Trees /> Avancerad sektionsfällning
+            <Trees /> Avancerad trädfällning
           </li>
           <li
             class="flex gap-1.5 items-center border-l-4 border-[var(--color-primary)] px-4 py-1.5 bg-[var(--color-bg)]"
@@ -118,16 +120,16 @@
           Pris & Trygghet
         </h2>
 
-        <p>RUT-avdrag berättigat.</p>
+        <p>• RUT-avdrag berättigat.</p>
 
-        <p>Utbildad vid Hvilan KY Arborist. Färdig 2023.</p>
+        <p>• Utbildad vid Hvilan KY Arborist: färdig 2023.</p>
 
         <p>
-          Ansvarsförsäkring för sak- och personskada hos IF med
+          • Ansvarsförsäkring för sak- och personskada hos IF med
           försäkringsnummer SP5202759.
         </p>
 
-        <p>Innehavare av ISA:s Tree Risk Assessment Qualification.</p>
+        <p>• Innehavare av ISA:s Tree Risk Assessment Qualification.</p>
       </div>
     </div>
 
@@ -139,7 +141,7 @@
         <h2
           class="text-4xl md:text-5xl tracking-wide !leading-normal mb-4 text-[var(--color-bg)]"
         >
-          Kontakta Emelie
+          Kontakt
         </h2>
         <ul
           class="md:text-base font-medium !leading-relaxed flex gap-4 md:justify-center"

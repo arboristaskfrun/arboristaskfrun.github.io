@@ -143,6 +143,7 @@
   html,
   body {
     background-color: var(--color-bg);
+    color: var(--color-text);
   }
 
   h1,
@@ -158,6 +159,7 @@
     /* font-family: Abril Fatface; */
     font-family: "Spectral", serif;
     font-weight: 600;
+    color: var(--color-text);
   }
 
   *,
