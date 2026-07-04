@@ -36,7 +36,7 @@
       <div class="flex flex-col lg:flex-row gap-4 lg:gap-6">
         <div class="h-96 lg:h-auto lg:w-1/2 relative">
           <img
-            class="h-full object-cover hidden lg:block absolute top-0 left-0 w-full"
+            class="h-full object-cover block absolute top-0 left-0 w-full"
             src="images/arboristaskfrun-top.jpeg"
             alt=""
           />
